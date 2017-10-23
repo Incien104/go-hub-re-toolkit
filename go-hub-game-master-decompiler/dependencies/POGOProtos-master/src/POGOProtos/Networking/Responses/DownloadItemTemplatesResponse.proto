@@ -19,6 +19,8 @@ import "POGOProtos/Settings/Master/PokemonSettings.proto";
 import "POGOProtos/Settings/Master/PokemonUpgradeSettings.proto";
 import "POGOProtos/Settings/Master/QuestSettings.proto";
 import "POGOProtos/Settings/Master/TypeEffectiveSettings.proto";
+import "POGOProtos/Settings/Master/GenderSettings.proto";
+import "POGOProtos/Settings/Master/GymBadgeGmtSettings.proto";
 
 message DownloadItemTemplatesResponse {
 	Result result = 1;
@@ -46,6 +48,8 @@ message DownloadItemTemplatesResponse {
 		.POGOProtos.Settings.Master.QuestSettings quest_settings = 20;
 		.POGOProtos.Settings.Master.AvatarCustomizationSettings avatar_customization = 21;
 		.POGOProtos.Settings.Master.FormSettings form_settings = 22;
+		.POGOProtos.Settings.Master.GenderSettings gender_settings = 23;
+		.POGOProtos.Settings.Master.GymBadgeGmtSettings gym_badge_settings = 24;
 	}
 
 	enum Result {
