@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -81,6 +82,8 @@
 
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 java
 .lang
 .Integerjava
@@ -185,7 +188,10 @@ java
 .
 .Config line: [{0}] needs to have a key, value pairOverflow or underflow in the arithmetic operation
 .arrayOnly single dimension arrays are supported
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .value does not support IComparable
 .comparer is null and value does not support IComparable
 .index is less than the lower bound of array
@@ -200,6 +206,7 @@ java
 . Check destIndex and length, and the array's lower boundsArrays must be of same size
 .(Types: source={0};  target={1})Destination array was not long enough
 . Check destIndex and length, and the array's lower bounds
+<<<<<<< HEAD
 
 
 
@@ -209,6 +216,10 @@ java
 .lengthselementTypeType must be a type provided by the runtime
 .Array type can not be voidArray type can not be an open generic typelowerBoundsArrays must contain >= 1 elements
 
+=======
+.lengthselementTypeType must be a type provided by the runtime
+.Array type can not be voidArray type can not be an open generic typelowerBoundsArrays must contain >= 1 elements
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .Each value has to be >= 0
 .Length + bound must not exceed Int32
 .MaxValue
@@ -217,6 +228,7 @@ java
 .indicesindex1index2Array was not a one-dimensional array
 .Index has to be between upper and lower bound of the array
 .index3Collection is read-onlyIndex has to be >= lower bound and <= upper bound of the array
+<<<<<<< HEAD
 
 
 
@@ -224,10 +236,13 @@ java
 
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .keysThe comparer threw an exception
 .comparisonComparison threw an exception
 .destinationType ArraycapacityThe initial capacity can't be smaller than zero
 .cMust have only 1 dimensions
+<<<<<<< HEAD
 
 
 
@@ -483,11 +498,15 @@ java
 
 .Index is less than 0 or more than or equal to the list count
 
+=======
+.Index is less than 0 or more than or equal to the list count
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .startIndexDoes not specify valid index
 .countCan't be less than 0
 .Start index and count do not specify a valid range
 .Index must be >= 0 and <= Count
 .listLess than 0 or more than list count
+<<<<<<< HEAD
 
 
 
@@ -525,6 +544,8 @@ java
 
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .CapacityMust be more than count
 .This collection is read-only
 .[*]Source array type cannot be assigned to destination array type
@@ -739,6 +760,7 @@ java
 . Causes: [; Built-in UI layer disabled
 . Causes: [EndOfFramecom
 .google
+<<<<<<< HEAD
 
 
 
@@ -918,6 +940,9 @@ java
 .vr
 
 
+=======
+.vr
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .platform
 .unity
 .UnityVrActivityListenergetDisplayMetricsinjectSingleTapinjectKeyPresssetAlignmentMarkerEnabledsetUnityApplicationStatesetSettingsButtonEnabledsetShowVrBackButtonOnlyInVRsetTapIsTriggersetTouchCoordinatessetVRBackButtonEnabledsetVRModeEnabledlaunchConfigureActivityMatrix / vector dimension mismatchOnly 2 coefficients supported
@@ -933,6 +958,7 @@ java
 .12
 .16
 .840
+<<<<<<< HEAD
 
 
 
@@ -1087,6 +1113,12 @@ java
 
 
 
+=======
+.1
+.113730
+.4
+.1ERROR processing certificate: {0}Please, report this problem to the Mono teamCN\s*=\s*([^,]*)ERROR building certificate chain: {0}__CrossContextNovell
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .Zenworks
 .Zmd
 .Public
@@ -1094,10 +1126,13 @@ java
 .Zenworks
 .Zmd
 .Public
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .UnixChannelType '' not foundAn instance of provider '' could not be created: chnlChannel {0} is not securable while ensureSecurity is specified as trueChannel  already registered is not a valid channel type does not have a valid constructorsThe value of index is less than zero, or greater than or equal to the length of s
 .Value is not a System
 .Chars contains more than one character
@@ -1163,6 +1198,7 @@ java
 .runtime
 .remotingapplication/channels/channel/serverProviderschannels/channel/serverProvidersapplication/channels/channel/clientProviderschannels/channel/clientProviderschannelSinkProviders/serverProviderschannelSinkProviders/clientProvidersurlmodeElement '' is not valid in system
 .remoting
+<<<<<<< HEAD
 
 
 
@@ -1201,6 +1237,8 @@ java
 
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .configuration sectionInvalid time valueInvalid time value: HMSInvalid time unit: refdelayLoadAsClientChannelidid attribute is requiredurl attribute is required in client element when it contains activated entriesclrxmlleaseTimesponsorshipTimeoutrenewOnCallTimeleaseManagerPollTimeInvalid attribute: assemblyType and assembly attributes cannot be specified togetherEither type or assembly attributes must be specifiedrootobjectUriSingleCallSingletonwellknown object mode '' is invalidElement  not allowed in this contextThis platform doesn't have an app store urlnewOutNo support for constants of type {0} yetFailed to enable constraints
 . One or more rows contain values violating non-null, unique, or foreign-key constraints
 .ConstraintConstraintName cannot be set to null or empty after adding it to a ConstraintCollection
@@ -1571,9 +1609,12 @@ java
 .0
 .0
 .0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aSystem
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .Security
 .Cryptography
 .X509Certificates
@@ -1581,9 +1622,12 @@ java
 .0
 .0
 .0, Culture=neutral, PublicKeyToken=b77a5c561934e089System
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .Security
 .Cryptography
 .X509Certificates
@@ -1591,9 +1635,12 @@ java
 .0
 .0
 .0, Culture=neutral, PublicKeyToken=b77a5c561934e089System
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .Security
 .Cryptography
 .X509Certificates
@@ -1601,9 +1648,12 @@ java
 .0
 .0
 .0, Culture=neutral, PublicKeyToken=b77a5c561934e089System
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .Security
 .Cryptography
 .X509Certificates
@@ -1677,7 +1727,10 @@ java
 .840
 .113549
 .3
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .2blobblob is too small
 .Unknown blob format
 .Invalid blob headerInvalid blob
@@ -1685,6 +1738,7 @@ java
 .Unexpected error occured during a cryptographic operation
 .Can't read on streamCan't write on streamThis method cannot be called twice
 .CryptoStream was disposed
+<<<<<<< HEAD
 
 
 
@@ -1721,6 +1775,8 @@ java
 
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .LengthPositionnot in Read modenegative(offset+count)buffer overflowSeekSetLengthnot in Write modeinner stream was diposedThis instance is read onlyPositive number required
 .Culture ID {0} (0x{0:X4}) is not a supported culture
 .Culture name  is not supported
@@ -1868,7 +1924,13 @@ java
 .Cannot add a relation to this table's ChildRelations where this table is not the Parent table
 .H:m:s
 .fffffffzzzH:m:s
+<<<<<<< HEAD
 .fffffffH:m:s tt zzzH:m:szzzH:m:sH:mzzzH:mH ttH'æ™‚'m'åˆ†'s'ç§’'yyyy/M/dTM/yyyy/dTyyyy'å¹´'M'æœˆ'd'æ—¥yyyy/d/MMMMyyyy/MMM/dd/MMMM/yyyyMMM/d/yyyyd/yyyy/MMMMMMM/yyyy/dyy/d/Myyyy/MMMM/dyyyy/d/MMMMMMM/d/yyyyd/MMM/yyyyMMMM/yyyy/dd/yyyy/MMMyy/MMMM/dyy/d/MMMMMM/yy/dd/MMMM/yyyy/MMM/dd/yy/MMMMMM/d/yyMMMM/d/yyd/MMM/yyMMMM/dd/MMMyyyy/MMMMd/MMMMMMM/yyValue {0} is outside the valid range [{1},{2}]
+=======
+.fffffffH:m:s tt zzzH:m:szzzH:m:sH:mzzzH:mH ttH'ć™‚'m'ĺ
+.†'s'ç§’'yyyy/M/dTM/yyyy/dTyyyy'ĺą´'M'ćś
+.'d'ć—Ąyyyy/d/MMMMyyyy/MMM/dd/MMMM/yyyyMMM/d/yyyyd/yyyy/MMMMMMM/yyyy/dyy/d/Myyyy/MMMM/dyyyy/d/MMMMMMM/d/yyyyd/MMM/yyyyMMMM/yyyy/dd/yyyy/MMMyy/MMMM/dyy/d/MMMMMM/yy/dd/MMMM/yyyy/MMM/dd/yy/MMMMMM/d/yyMMMM/d/yyd/MMM/yyMMMM/dd/MMMyyyy/MMMMd/MMMMMMM/yyValue {0} is outside the valid range [{1},{2}]
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .ticksParameters describe an unrepresentable DateTime
 .GMTInvalid DateTimeKind value
 .kindThe DateTimeStyles value RoundtripKind cannot be used with the values AssumeLocal, Asersal or AdjustToUniversal
@@ -1900,6 +1962,7 @@ java
 .ABCDEFGHIJKLMNOPQRSTUVWXYZ"#$%&'()*+,-
 ./0123456789:`abcdefghijklmnopqrstuvwxyz}~
 .;<=>?[\]^_ ,
+<<<<<<< HEAD
 ./:@!|Ã€Ã
 .Ã‚ÃƒÃ„Ã…Ã†Ã‡ÃˆÃ‰ÃŠÃ‹ÃŒÃ
 .ÃŽÃ
@@ -1910,6 +1973,18 @@ java
 .Ã®Ã¯Ã°Ã±Ã²Ã³Ã´ÃµÃ¶Ã·Ã¸Ã¹ÃºÃ»Ã¼Ã½Ã¾Ã¿Â¡Â¨Â«Â¯Â°Â´Â·Â¸Â»Â¿ÂŠÂ‹ÂŒÂ
 .ÂŽÂ
 .Â
+=======
+./:@!|Ă€Ă
+.Ă‚Ă
+.Ă„Ă…Ă†Ă‡Ă
+.Ă‰ĂŠĂ‹ĂŚĂŤĂŽĂŹĂ
+.Ă‘Ă’Ă“Ă”Ă•Ă–Ă—Ă
+.Ă™ĂšĂ›ĂśĂťĂžĂźÂŞÂ¬Â±Â˛ÂłÂµÂąÂşÂĽÂ˝ÂľÂ€Â
+.Â‚Â
+.Â„Â…Â†Â‡Â
+.Â‰Ă ĂˇĂ˘ĂŁĂ¤ĂĄĂ¦Ă§Ă¨Ă©ĂŞĂ«Ă¬Ă
+.Ă®ĂŻĂ°Ă±Ă˛ĂłĂ´ĂµĂ¶Ă·Ă¸ĂąĂşĂ»ĂĽĂ˝ĂľĂżÂˇÂ¨Â«ÂŻÂ°Â´Â·Â¸Â»ÂżÂŠÂ‹ÂŚÂŤÂŽÂŹÂ
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .Â‘Â’Â“Â”
 .
 .
@@ -1938,9 +2013,15 @@ java
 .
 .
 .
+<<<<<<< HEAD
 .ÂŸÂ Â¢Â£Â¤Â¥Â¦Â§Â©Â
 .Â®Â¶Â•Â–Â—Â˜Â™ÂšÂ›ÂœÂ
 .Âž
+=======
+.ÂźÂ Â˘ÂŁÂ¤ÂĄÂ¦Â§Â©Â
+.Â®Â¶Â•Â–Â—Â
+.Â™ÂšÂ›ÂśÂťÂž
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .
 .
 .
@@ -1979,7 +2060,10 @@ java
 .
 .[)>
 .06
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .Platform does not support required encoding: 000000000Bad ECI bits starting with byte CTRL_PSAEKOPQRVWXYCTRL_LLCTRL_MLCTRL_DLCTRL_BSabfhjklmnopqruvwyzCTRL_US
 .
 .
@@ -1992,7 +2076,11 @@ java
 .
 .
 .!$%@^`~Â±CTRL_ULCTRL_PL
+<<<<<<< HEAD
 . +{}23456789CTRL_ï¿½fallbackbytesUnknownReentrant Fallback method invocation occured
+=======
+. +{}23456789CTRL_ďż˝fallbackbytesUnknownReentrant Fallback method invocation occured
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 . It might be because either this FallbackBuffer is incorrectly shared by multiple threads, invoked inside Encoding recursively, or Reset invocation is forgotten
 .No properties provideddoes not implement right interfaceNull collection of seralizable members returned
 .ShouldSerializeMultiple constructors with the JsonConstructorAttribute
@@ -2017,7 +2105,10 @@ java
 .DnsPermission, System, Version=2
 .0
 .0
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .0, Culture=neutral, PublicKeyToken=b77a5c561934e089System
 .Drawing
 .Printing
@@ -2077,7 +2168,10 @@ java
 .Data, Version=2
 .0
 .0
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .0, Culture=neutral, PublicKeyToken=b77a5c561934e089ExecutionFullTrustInternetSafePrintingLocalIntranetUSERNAME;USERNothingSkipVerification2
 .0
 .0
@@ -2946,7 +3040,10 @@ java
 .AssemblyNameMemberTypeCould not find constructor '{0}' in type '{1}'Could not find method '{0}' in type '{1}'Could not find field '{0}' in type '{1}'Could not find property '{0}' in type '{1}'Could not find event '{0}' in type '{1}'Unhandled MemberType {0}GenericArguments
 .
 .\sInvalid tag {0}, expected {1}
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .Niantic
 .Holoholo
 .Performance
@@ -3402,10 +3499,13 @@ java
 .System
 .Security
 .Policy
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .PermissionRequestEvidenceRequestOptionalDeniedPgpApiGetPgpStateGetScannedResultsInternalThere can only be 1 PgpPluginpgpplugincom
 .nianticlabs
 .pokemongoplus
@@ -3603,9 +3703,12 @@ java
 .DirectoryServicesSystem
 .DrawingSystem
 .MessagingSystem
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .ServiceProcessAll_CodeMy_Computer_ZoneLocalIntranet_ZoneInternet_ZoneRestricted_ZoneTrusted_Zoneconfigurationmissing <configuration> root elementmissing <mscorlib> tagsecuritymissing <security> tagpolicymissing <policy> tagSecurityClassesFullTrustAssembliesInvalid XMLStrongNameMembershipConditionInvalid XML - must be StrongNameMembershipConditionMissing Root CodeGroupNamedPermissionSets
 .defaultCan't save AppDomain PolicyLevel
 .backupSecurityClassInvalid tag
@@ -3634,7 +3737,11 @@ java
 .Then threw an exceptionPromise
 .Finally threw an exceptionPromise
 .Error threw an exceptionError occurred while accessing property '{0}'Unknown:{0}[{0}: Size: {1}]gbmbkb{0:n0} b{0:n2} {1}FormatProtoImplAll FormatProtoImpl functions need 1 parameterScope must be set for the previous binding!  Please either specify AsTransient, AsCached, or AsSingle
+<<<<<<< HEAD
 . Last binding: Contract: {0}, Identifier: {1} {2}Context: '{0}'ptc_auth_failed[a-zA-ZÃ€-Ã¿\d_+]No PTC login URLs found for language {0}, defaulting to English
+=======
+. Last binding: Contract: {0}, Identifier: {1} {2}Context: '{0}'ptc_auth_failed[a-zA-ZĂ€-Ăż\d_+]No PTC login URLs found for language {0}, defaulting to English
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .5750bac0-483c-4131-80fd-6b047b2ca7b4ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_
 .~access_tokenclient_idmobile-app_pokemon-golocalehttps://sso
 .pokemon
@@ -3791,6 +3898,7 @@ java
 .cannot export private keyprivate keyMissing private key to decrypt value
 .public keyMissing private keyMissing ExponentMissing ModulusPrivate/public key mismatchrgbDataNo RSA key specifiedSystem
 .Security
+<<<<<<< HEAD
 
 
 
@@ -3798,6 +3906,8 @@ java
 
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .Cryptography
 .RSAPKCS1SignatureDeformatterSystem
 .Security
@@ -3844,12 +3954,16 @@ java
 .Assembly: {0}{1}
 .Assert: {0}{1}
 .Deny: {0}{1}
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .PermitOnly: {0}{1}Invalid metadata format
 .Unknown metadata format
 .monoEnterpriseenterprisesec
 .configMachinesecurity
+<<<<<<< HEAD
 
 
 
@@ -3859,6 +3973,8 @@ java
 
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .configUserPolicy doesn't grant the minimal permissions required to execute the assembly
 .Policy doesn't grant the right to execute the assembly
 .SecurityPermissionFlagOnMouseDownOnMouseUpAsButtonOnMouseUpOnMouseDragOnMouseOverOnMouseExitOnMouseEnterSeqInfo Load: failed to convert sequence Type '{0}' has more than one method with the following attribute: '{1}'
@@ -3897,9 +4013,12 @@ java
 .UnityCrossDomainHelper, CrossDomainPolicyParser, Version=1
 .0
 .0
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .0, Culture=neutralCant find type UnityCrossDomainHelperCant find  can only be called once per asynchronous operationListening on TCP sockets is not allowed in the webplayerThrowing the following securityexception: 'mode' parameter is not valid
 .Operation timed out
 .Operation timed outSendTo request refused by Unity webplayer security modelThrowing the following security exception: optionValueA 'LingerOption' value must be specified
@@ -3988,11 +4107,14 @@ java
 .Lang
 .UnityEngine
 
+<<<<<<< HEAD
 
 
 
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .setupCoroutinein (unmanaged)UnityEditor
 .EditorGUIUtility:RenderGameViewCameras (at(wrapper managed-to-native)(wrapper delegate-invoke)at <0x00000> <unknown method>at [0x  in <filename unknown>:0  in HorizontalVerticalSubmitPen[TouchScript] Initialized Unity mouse input
 .[TouchScript] Initialized Unity touch input
@@ -4042,12 +4164,18 @@ java
 .maxCapacitymaxCapacity is less than one
 .Capacity exceeds maximum capacity
 .StartIndex and length must refer to a location within the string
+<<<<<<< HEAD
 
 .m_StringValuem_MaxCapacitycapacity was less than the current size
 .The old value cannot be null
 .The old value cannot be zero length
 
 
+=======
+.m_StringValuem_MaxCapacitycapacity was less than the current size
+.The old value cannot be null
+.The old value cannot be zero length
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .Capacity must be larger than lengthShould be less than or equal to MaxCapacitym_currentThreadCannot set column '' to ''
 . The value violates the MaxLength limit of this column
 .<
@@ -4092,6 +4220,7 @@ java
 .Thread was being abortedThread interruptedcallBacktimeout < -1Timeout is too big
 . Maximum is Int32
 .MaxValueThread State ErrorExpected type '{0}' to drive from IFixedTickable while checking priorities in TickableHandlerExpected type '{0}' to drive from ILateTickable while checking priorities in TickableHandlerExpected type '{0}' to drive from ITickable while checking priorities in TickableHandler_BlurSize_BlurArea_BlurredUnexpected time of day settingDue time too largePeriod too largedueTimeperiodcallbackResulting timespan is too big
+<<<<<<< HEAD
 
 
 
@@ -4249,10 +4378,14 @@ java
 
 .The timespan is too big or too small
 
+=======
+.The timespan is too big or too small
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .Argument has to be a TimeSpan
 .This TimeSpan value is MinValue so you cannot get the duration
 .Value cannot be NaN
 .Outside range [MinValue,MaxValue]This TimeSpan value is MinValue and cannot be negated
+<<<<<<< HEAD
 
 
 
@@ -4260,6 +4393,8 @@ java
 
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .D2D7is not valid for a TimeSpan
 .Ch9nb29nbGUvcHJvdG9idWYvdGltZXN0YW1wLnByb3RvEg9nb29nbGUucHJvdG9idWYiKwoJVGltZXN0YW1wEg8KB3NlY29uZHMYASABKAMSDQoFbmFub3MYAiABKAVCUQoTY29tLmdvb2dsZS5wcm90b2J1ZkIOVGltZXN0YW1wUHJvdG9QAaABAaICA0dQQqoCHkdvb2dsZS5Qcm90b2J1Zi5XZWxsS25vd25UeXBlc2IGcHJvdG8zDAY_ABBREVHOUR_ABBREVMINUTE_ABBREVSECOND_ABBREV{0}{1} {2}{3} {4}{5}{0}{1} {2}{3}{0}{1} {2}H:mm:ssmm:ssm:ssdaylightTimeskey expansionclient write keyserver write keyIV blockmaster secretClient certificate Private Key unavailable
 .client finished0x{0:x}Invalid certificate received from server
@@ -4318,7 +4453,10 @@ java
 .VoidByteDecimalInt16{0}[]TypeLoadClassNameTypeLoadAssemblyNameA type load exception has occurred
 .Could not load type '{0}' from assembly '{1}'
 .Could not load type '{0}'
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .TypeLoadMessageArgTypeLoadResourceIDunsignedShortunsignedIntunsignedLongQName[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}guidXmlNodeXmlElementdatetimePeriodgDaygMonthDaygYeargYearMonthmonthNMTOKENNMTOKENSNCNameintegerpositiveIntegernonPositiveIntegernegativeIntegernonNegativeIntegerENTITIESENTITYhexBinaryIDREFIDREFSNOTATIONnormalizedStringanyURIbase64durationArrayOfData type '' not supportedCannot convert values of type 'OfCannot parse WSDL array type: Unexpected Lucky Egg RPC response: {0}ar_encounter_no_gyro_errmove_reroll_success_message<b>{0}  {1}</b>statusmap_pokemon_typeballtypehitcurvemiss_percentaction
 .catch_pokemonLogging in
 .
@@ -4451,7 +4589,10 @@ java
 .ConstraintCollection can't be null
 .newPrimaryKey must belong to collection
 .UnityTypeUnitySerializationHolder does not support this type
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .Unexpected UnityEngine
 .TouchPhase Cannot set a UnityWebRequest's method to an empty or null stringhttp://localhost/Cannot set a Request Header with a null or empty nameCannot set a Request header with a null\s*nameserver\s+(?<address>
 .*)\s*search\s+(?<domain>
@@ -4460,7 +4601,11 @@ java
 .MaxValue
 .Unable to expand length of this stream beyond its capacity
 .Stream does not support writing
+<<<<<<< HEAD
 .The buffer parameter is a null referenceThe current position is at the end of the capacity of the streamInvalid positionÂ£90000999910
+=======
+.The buffer parameter is a null referenceThe current position is at the end of the capacity of the streamInvalid positionÂŁ90000999910
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .0099990Used000000000destroyBillboardcom
 .upsight
 .android
@@ -4513,7 +4658,10 @@ java
 .Invalid Vector2 index!({0:F1}, {1:F1})Invalid Vector3 index!({0:F1}, {1:F1}, {2:F1})Invalid Vector4 index![VectorD3: X={0:f1}, Y={1:f1}, Z={2:f1}]There must be 2, 3 or 4 components in the version string
 .majorminorbuildrevisionArgument to Version
 .CompareTo must be a Version
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .err_taking_you_to_app_storeMesh can not have more than 65000 vertices_Wipe_Feather_Blur_VignetteTex_ChromaticAberration_AxialAberration_BlurDistance_LuminancewaitHandlesToo many handlesnull handlenull element foundwaitHandleWaterTrackResurrectionTrackedObjectUser abortedchunked BeginReadCheckingSecurityForUrl: /crossdomain
 .xmlGetSecurityPolicyForDotNetWebRequestCant find GetSecurityPolicyFromNonMainThreadDownloadPolicyCannot find method DownloadPolicyWebrequest was deniedUnexpected error while trying to call method_GetSecurityPolicyBlocking : CONNECT  HTTP/1
 .1
@@ -4597,6 +4745,7 @@ java
 .1
 .1
 .31
+<<<<<<< HEAD
 .2
 .840
 .113549
@@ -7505,6 +7654,517 @@ java
 
 
 
+=======
+.2
+.840
+.113549
+.1
+.1
+.41
+.2
+.840
+.113549
+.1
+.1
+.51
+.3
+.14
+.3
+.2
+.291
+.2
+.840
+.10040
+.4
+.31
+.2
+.840
+.113549
+.1
+.1
+.111
+.2
+.840
+.113549
+.1
+.1
+.121
+.2
+.840
+.113549
+.1
+.1
+.13Unsupported hash algorithm: rawUnable to decode certificate
+.-----BEGIN {0}----------END {0}-----[Subject]{0}  {1}{0}{0}[Issuer]{0}  {1}{0}{0}[Not Before]{0}  {1}{0}{0}[Not After]{0}  {1}{0}{0}[Thumbprint]{0}  {1}{0}aaUnknown Asymmetric Algorithm Unable to decode public key
+.nameTypeSystem
+.Security
+.Cryptography
+.X509Certificates
+.X509Certificate2[Version]{0}  V{1}{0}{0}[Serial Number]{0}  {1}{0}{0}[Thumbprint]{0}  {1}{0}{0}[Signature Algorithm]{0}  {1}({2}){0}{0}[Public Key]{0}  Algorithm: {0}  Length: {1}{0}  Key Blob: {0}  Parameters: certificatefindValueInvalid find value type '{0}', expected '{1}'
+.X509KeyUsageFlagsInvalid OID value '{0}'
+.X509DateTimeInvalid find type '{0}'
+.negative indexindex >= CountInvalid revocation mode
+.2
+.5
+.29
+.35X022
+.5
+.29
+.212
+.5
+.29
+.20RevocationModecrlserialNumberx509Input data cannot be coded as a valid CRL
+. [Non-matching signature algorithms in CRL]encodedDataInvalid ASN
+.1 TagServer Authentication (Unknown Key Usage (Invalid X
+.509 extension
+.extensionExpected a X509Extension instance
+.   Invalid extensions formatindex >= array
+.LengthOff-line CRL Signing, CRL SigningEncipher OnlystoreNamestoreLocation*
+.cer*
+.crlInvalid store name (null or empty)
+.RootTrustStore {0} doesn't exists
+.certssubjectKeyIdentifier_uv0_uv1_uv2Invalid attribute namespace for namespace declaration
+.http://www
+.w3
+.org/XML/1998/namespaceInvalid attribute prefix
+.Invalid attribute local name
+.This node is readonly
+.Cannot bind to the reserved namespace
+.Attempt to modify a read-only node
+.invalid construction for XmlAttributeCollection
+.This attribute collection is read-only
+.Specified node is null
+.Specified node is in a different document
+.The specified attribute is not contained in the element
+.this AttributeCollection is read only
+.This attribute is already set to another element
+.#cdata-section-'()+,
+./:=?;!*#@$_%#commentyyyy-MM-ddTHH:mm:sszzzyyyy-MM-ddTHH:mm:ss
+.FFFFFFFzzzyyyy-MM-ddTHH:mm:ssZyyyy-MM-ddTHH:mm:ss
+.FFFFFFFZyyyy-MM-ddTHH:mm:ssyyyy-MM-ddTHH:mm:ss
+.FFFFFFFHH:mm:ss
+.FFFFFFFHH:mm:sszzzHH:mm:ss
+.FFFFFFFzzzHH:mm:ssZHH:mm:ss
+.FFFFFFFZyyyy-MM-ddzzzyyyy-MM-ddZyyyy-MMzzzyyyy-MMZyyyyzzzyyyyZ--MM-dd--MM-ddzzz--MM-ddZ---dd---ddzzz---ddZzzz_x003A__x{0:X4}__x005F_ is not a valid boolean valueInvalid Guid input '{0}'-INFINFPT0S-P10675199DT2H48M5
+.4775808S{0:0000000}yyyy-MM-ddTHH:mm:ss
+.FFFFFFFKInvalid format string for duration schema datatype
+.' is not a valid XML Namencname' is not a valid XML NCNameThere are already another column that has different mapping type
+. Column is {0}, existing mapping type is {1}The table '{0}' is already allocated as a child of another table '{1}'
+. Cannot set table '{2}' as parent table
+.Column {0} is already mapped to {1}
+._Column_Text_IdDataSet is not designed to handle XML Schema as data content
+. Please use ReadXmlSchema method instead of InferXmlSchema method
+.Parent table was not found : Child table was not found : Parent column was not found :Child column was not found : encoding="{0}" standalone="{0}"version="{0}"{1}{2}Missing 'version' specification
+.Invalid 'version' specification
+.Invalid XML declaration
+.Invalid 'encoding' specification
+.standaloneInvalid 'standalone' specification
+.Invalid standalone specification
+.YESerrorsCannot load diffGram
+. Table '' is missing in the destination dataseturn:schemas-microsoft-com:xml-msprophasErrorsInvalid row change stateErrorCreateElementCreateAttribute#text#entity#document-fragment#whitespacelang#document#significant-whitespaceThe attribute local name cannot be empty
+.The local name for elements or attributes cannot be null or an empty string
+.Invalid whitespace characters
+.version string is not correct
+.standalone string is not correct
+.Null node cannot be imported
+.Document cannot be imported
+.DocumentType cannot be imported
+.Illegal ImportNode call for NodeType
+.EndElementIllegal ImportNode call for NodeType
+.EndEntityIllegal ImportNode call for NodeType
+.NoneCannot import specified node type: {0} Line number = {1}, Inline position = {2}
+.Node is read-only
+.bad position to read attribute
+.Reference to undeclared entity was found
+.Unexpected node type Specified name is not a valid NCName: Specified attribute is already an attribute of another element
+.This operation is not supported
+.entity reference cannot be set value
+.lineNumberlinePositionressourceUriXml_UserExceptionXml_DefaultException{0} {3} Line {1}, position {2}
+.XmlSchema error:  XML {0} Line {1}, Position {2}
+.URI: invalid encoding specification
+.?xmlncodingCannot add to NodeMap
+.nameTablePrefix "xml" can only be bound to the fixed namespace URI "{0}"
+. "{1}" is invalid
+.Declaring prefix named "xmlns" is not allowed to any namespace
+.Namespace URI "{0}" cannot be declared with any namespace
+.Node cannot be appended to current node {0}
+.Cannot insert specified type of node {0} as a child of this node {1}
+.Cannot insert specified type of node as a child of this node
+.The node is readonly
+.Can't append a node created by another document
+.The reference node is not a child of this node
+.multiple document element not allowed
+.Cannot insert a node or any ancestor of that node as a child of itself
+.This {0} node cannot remove its child
+.This {0} node is read only
+.xml:langpreserveThe node to be removed is not a child of this node
+.This node does not have a valuejson:Arrayhttp://james
+.newtonking
+.com/projects/jsonCannot get an XML string value from token type '{0}'
+.@name@public@system@internalSubsetUnexpected property name encountered while deserializing XmlDeclaration: @version@encoding@standaloneJSON root object has multiple properties
+. The root object must have a single property in order to create a valid XML document
+. Consider specifing a DeserializeRootElementName
+.Unexpected JsonToken when deserializing node: !DOCTYPEUnexpected XmlNodeType when getting node name: jsonxmlns:Unexpected JsonToken: XmlNodeConverter cannot convert JSON with an empty property name to XML
+.XmlNodeConverter only supports deserializing XmlDocumentsUnexpected type when converting XML: XmlNodeConverter can only convert JSON that begins with an object
+.ArrayUnexpected XmlNodeType when serializing nodes: Value must be an XML object
+.The current node is not an Entity ReferenceIndex out of range
+.Should not happen
+.This operation is not allowed
+.Unexpected end of element scope
+.This node is read-only
+.Invalid qualified name
+.'{0}' is an invalid node type
+.Unexpected end of the XML reader
+.Expecting {0} tag from namespace {1}, got {2} and {3} instead%3C%3E%22Either baseUri or relativeUri are required
+.http:https:ftp:file:list is not allowed in blockDefault attributeunion is not allowed in blockDefault attributesubstitution is not allowed in finalDefault attributeThe targetNamespace attribute cannot have have empty string as its value
+. is not a valid value for targetNamespace attribute of schemais not a valid value for version attribute of schemaObject of Type {0} is not valid in Item Property of SchemaObject of Type {0} is not valid in Includes Property of XmlSchemaCould not resolve schema location URI: Redefinition is only allowed to simpleType, complexType, group and attributeGroup
+.Target namespace must be different from that of included schema
+.Attribute namespace and its importing schema's target namespace must be the same
+.Target namespace is required to include a schema which has its own target namespaceThe root element must be schemaThis should never happen
+. XmlSchema
+.Read 1 The top level schema must have namespace http://www
+.w3
+.org/2001/XMLSchemaattributeFormDefaultblockDefaultelementFormDefaultfinalDefaulttargetNamespace is not a valid value for attributeFormDefault
+. is not a valid value for elementFormDefault
+. attribute is not allowed in schema elementUNREACHABLE CODE REACHED: Method: Schema
+.ReadContent, Should not happen :2: XmlSchema
+.Read, name=includeimportredefinesimpleTypecomplexTypeattributeGroupattributenotationmaxOccurs must be 1minOccurs must be 0 or 1The {max occurs} of all the elements of 'all' must be 0 or 1
+. XmlSchemaAll can only contain Items of type ElementShould not happen :1: XmlSchemaAll
+.Read, name=maxOccurs is an invalid value for maxOccursminOccurs is an invalid value for minOccurs is not a valid attribute for allShould not happen :2: XmlSchemaAll
+.Read, name=-all- group is limited to be content of a model group, or that of a complex type with maxOccurs to be 1
+.MaxOccurs of a particle inside -all- compositor must be either 0 or 1
+.Invalid -all- particle derivation was found
+.Should not happen :1: XmlSchemaAnnotation
+.Read, name= is not a valid attribute for annotationShould not happen :2: XmlSchemaAnnotation
+.Read, name=,expected=appinfodocumentationunbounded##anyanyShould not happen :1: XmlSchemaAny
+.Read, name=processContents is not a valid value for processContents is not a valid attribute for anyShould not happen :2: XmlSchemaAny
+.Read, name=Invalid particle derivation by restriction was found
+.Ambiguous -any- particle was found
+.anyAttributeShould not happen :1: XmlSchemaAnyAttribute
+.Read, name= is not a valid attribute for anyAttributeShould not happen :2: XmlSchemaAnyAttribute
+.Read, name=Should not happen :1: XmlSchemaAppInfo
+.Read, name= is not a valid attribute for appinforef must be absent in the top level <attribute>form must be absent in the top level <attribute>use must be absent in the top level <attribute>name must be absent if ref is presentform must be absent if ref is presentsimpletype must be absent if ref is presenttype must be absent if ref is presentRequired attribute name must be presentattribute name must be NCNameattribute name must not be xmlnsattribute can't have both a type and <simpleType> content is not a valid QNameError: Should Never Happen
+. refname must be presenthttp://www
+.w3
+.org/2001/XMLSchema-instancenilschemaLocationnoNamespaceSchemaLocationtargetNamespace can't be http://www
+.w3
+.org/2001/XMLSchema-instancedefault and fixed must not both be present in an Attributeif default is present, use must be optionalShould not happen :1: XmlSchemaAttribute
+.Read, name=form is not a valid value for form attribute is not a valid value for ref attribute is not a valid value for type attributeuse is not a valid value for use attribute is not a valid attribute for attributeShould not happen :2: XmlSchemaAttribute
+.Read, name=An attribute can't have complexType ContentInvalid xml schema namespace datatype was specified
+.Referenced schema type  was not found in the corresponding schema
+.Referenced attribute By the defection of the W3C XML Schema specification, it is impossible to supply QName default or fixed values
+.The Attribute's default value is invalid with its type definition
+.The Attribute's fixed value is invalid with its type definition
+.Name is required in top level simpletypename attribute of a simpleType must be NCNameinvalid type of object in Attributes propertyShould not happen :1: XmlSchemaAttributeGroup
+.Read, name= is not a valid attribute for attributeGroup in this contextShould not happen :2: XmlSchemaAttributeGroup
+.Read, name=ref must be presentref must be a valid qnameShould not happen :1: XmlSchemaAttributeGroupRef
+.Read, name=Should not happen :2: XmlSchemaAttributeGroupRef
+.Read, name=Empty choice is unsatisfiable if minOccurs not equals to 0Invalid schema object was specified in the particles of the choice model group
+.choiceShould not happen :1: XmlSchemaChoice
+.Read, name= is not a valid attribute for choiceShould not happen :2: XmlSchemaChoice
+.Read, name=sequenceInvalid choice derivation by restriction was found
+.Content must be present in a complexContentcomplexContent can't have any value other than restriction or extentioncomplexContentShould not happen :1: XmlSchemaComplexContent
+.Read, name=mixed is an invalid value for mixed is not a valid attribute for complexContentShould not happen :2: XmlSchemaComplexContent
+.Read, name=restrictionbase must be present, as a QNameBaseTypeName is not a valid XmlQualifiedName is not valid in this place::ComplexConetnetExtensionParticle of a restriction is limited only to group, sequence, choice and all
+.Should not happen :1: XmlSchemaComplexContentExtension
+.Read, name= is not a valid value for base attribute is not a valid attribute for extensionShould not happen :2: XmlSchemaComplexContentExtension
+.Read, name= is not valid in this place::ComplexContentRestrictionShould not happen :1: XmlSchemaComplexContentRestriction
+.Read, name= is not a valid attribute for restrictionShould not happen :2: XmlSchemaComplexContentRestriction
+.Read, name=Redefinition base type was not found
+.name must be present in a top level complex typename must be a NCNameInvalid block specification
+.Invalid final specification
+.abstract must be false in a local complex typename must be absent in a local complex typefinal must be absent in a local complex typeblock must be absent in a local complex typeattributes, particles or anyattribute is not allowed if ContentModel is present is not valid in this place::ComplexTypeShould not happen :1: XmlSchemaComplexType
+.Read, name= is invalid value for abstractblocksome invalid values for block attribute were foundfinalsome invalid values for final attribute were found is invalid value for mixed is not a valid attribute for complexTypeShould not happen :2: XmlSchemaComplexType
+.Read, name=simpleContentParticle whose term is -all- and consists of complex type content particle must have maxOccurs = 1
+.Two or more ID typed attribute declarations in a complex type are found
+.Derivation by extension is prohibited
+.Invalid complex type derivation by extension was found
+. Missing attribute was found: Invalid complex type derivation by extension was found
+. Base complex type does not have an attribute wildcard
+.Base complex type has different content type Invalid complex content extension was found
+.Referenced group Circular definition of schema types was found
+.Specified derivation is specified as final by derived schema type
+.If the base schema type is a simple type, then this type must be extension
+.Referenced base schema type is XML Schema datatype
+.Referenced base schema type  was not complex type or not found in the corresponding schema
+.Base schema complex type of a simple content must be simple content type
+. Base type is If a simple content is not an extension, base schema type must be complex type
+. Base type is Base complex type of a simple content restriction must be text only
+.Not allowed base type of a simple content restriction
+.Base schema type is not a complex type
+.Prohibited derivation by restriction by base schema type
+.Invalid attribute derivation by restriction was found for Invalid attribute derivation by restriction because of its type: Invalid attribute derivation by restriction because of its fixed value constraint: Invalid attribute derivation by restriction because of attribute wildcard
+.Invalid content type derivation
+.Extension is prohibited by the base type
+.To extend simple type, a complex type must have the same content type as the base type
+.Derivation type  is prohibited by the base type
+.Derived type's base schema type is anyType
+.foobarThere is already primary key columns in the table "{0}"
+.Nested element must not have the same name as DataSet's name
+.DataSet does not suport 'list' nor 'union' simple type
+.ConstraintNameTarget identity constraint was not found: RelationshipDataSourceurn:schemas-microsoft-com:xml-msdatasourceTablesparentkeychildkeyOrdinalIsDataSetValue {0} is invalid for attribute 'IsDataSet'
+.SourceColumnDataSetColumnUseCurrentLocaleLocale_textCommandTypeCommandTextParametersStoredProcedureAllowDbNullParameterNameProviderTypeDbTypeDirectionPrecisionScaleSizeSourceColumnNullMappingSourceVersionGenerateShortCommandsGenerateMethodsGetMethodNameGetMethodModifierPublicScalarCallRetvalQueryTypeFillMethodNameFillMethodModifierModifierSelectCommandInsertCommandUpdateCommandDeleteCommandInvalid XPath selection inside selector
+. Cannot find: {0}The XPath specified attribute field, but mapping type is not attribute
+.The XPath specified simple element field, but mapping type is not simple element
+.Invalid XPath selection inside field
+. Cannot find: {0}BaseClassGeneratorDataComponentClassNameDataAccessorNameMainSourceSourcesMappingsIsNestedConstraintOnlyPrimaryKeyhttp://www
+.w3
+.org/2003/11/xpath-datatypesanyAtomicTypeuntypedAtomicdayTimeDurationyearMonthDurationanySimpleTypegMonthShould not happen :1: XmlSchemaDocumentation
+.Read, name= is not a valid attribute for documentationboth default and fixed can't be presentref must be absentform must be absentminOccurs must be absentmaxOccurs must be absentsome values for final are invalid in this contextboth schemaType and content can't be presentonly simpletype or complextype is allowedSchemaTypeName must be an XmlQualifiedNameSubstitutionGroup must be a valid XmlQualifiedNamesubstitutionGroup must be absentfinal must be absentRefName must be a XmlQualifiedNamename must not be present when ref is presentkey, keyref and unique must be absentnillable must be absentdefault must be absentfixed must be nullblock must be absenttype must be absentsimpleType or complexType must be absentSome of the values for block are invalid in this contextShould not happen :1: XmlSchemaElement
+.Read, name= is an invalid value for form attributenillableis not a valid value for nillablesubstitutionGroup is not a valid value for substitutionGroup attribute is not a valid attribute for elementShould not happen :2: XmlSchemaElement
+.Read, name=uniquekeyrefInvalid schema datatype was specified
+.Referenced element schema type Referenced element Substituted element blocks substitution
+.Invalid derivation was found
+. Substituted element prohibits this derivation method: Referenced element type Element type is ID, which does not allows default or fixed values
+.Invalid derivation by restriction of particle was found
+. Both elements must have the same name
+.Invalid element derivation by restriction of particle was found
+. Base element is not nillable and derived type is nillable
+.Invalid element derivation by restriction of particle was found
+. Both fixed value must be the same
+.Invalid derivation by restriction of particle was found
+. Derived element must contain all of the base element's block value
+.Invalid element derivation by restriction of particle was found
+. Both primitive types differ
+.Element content type must be simple type or mixed
+.The Element's default value is invalid with respect to its type definition
+.The Element's fixed value is invalid with its type definition
+.Ambiguous element label was detected: Ambiguous element label which is contained by -any- particle was detected: Ambiguous element label '{0}' which is contained by -any- particle with ##other value than '{1}' was detected: Different types are specified on the same named elements in the same sequence
+. Element name is enumerationShould not happen :1: XmlSchemaEnumerationFacet
+.Read, name= is not a valid attribute for enumerationShould not happen :2: XmlSchemaEnumerationFacet
+.Read, name=hasLineInfosourceObjA schema error occured
+.fractionDigitsShould not happen :1: XmlSchemaFractionDigitsFacet
+.Read, name= is not a valid value for fixed attribute is not a valid attribute for fractionDigitsShould not happen :2: XmlSchemaFractionDigitsFacet
+.Read, name=Particle is requiredMaxOccurs must not be present when the Particle is a child of GroupMinOccurs must not be present when the Particle is a child of GroupShould not happen :1: XmlSchemaGroup
+.Read, name= is not a valid attribute for groupShould not happen :2: XmlSchemaGroup
+.Read, name=Invalid particle derivation by restriction was found
+. base particle does not contain particles
+.Invalid particle derivation by restriction was found
+. Cannot be mapped to base particle
+.Invalid particle derivation by restriction was found
+. Invalid sub-particle derivation was found
+.Invalid particle derivation by restriction was found
+. Extraneous derived particle was found
+.Invalid particle derivation by restriction was found
+. There is a base particle which does not have mapped derived particle and is not emptiable
+.Circular group reference was found
+.RefName must be a valid XmlQualifiedNameShould not happen :2: XmlSchemaGroupRef
+.Read, name=Group reference to -all- particle must have schema component {maxOccurs}=1
+.There is already same named identity constraint in this namespace
+. Existing item is at {0}({1},{2})selector must be presentatleast one field value must be presentObject of type  is invalid in the Fields CollectionShould not happen :1: XmlSchemaImport
+.Read, name= is not a valid attribute for importShould not happen :2: XmlSchemaImport
+.Read, name=Should not happen :1: XmlSchemaInclude
+.Read, name= is not a valid attribute for includeShould not happen :2: XmlSchemaInclude
+.Read, name=Should not happen :1: XmlSchemaKey
+.Read, name= is not a valid attribute for keyShould not happen :2: XmlSchemaKey
+.Read, name=fieldselector must be defined before field declarationsrefer must be presentRefer is not a valid XmlQualifiedNameShould not happen :1: XmlSchemaKeyref
+.Read, name=refer is not a valid value for refer attribute is not a valid attribute for keyrefShould not happen :2: XmlSchemaKeyref
+.Read, name=Target key was not found
+.Target identity constraint was keyref
+.Target identity constraint has different number of fields
+.Should not happen :1: XmlSchemaLengthFacet
+.Read, name=Should not happen :2: XmlSchemaLengthFacet
+.Read, name=maxExclusiveShould not happen :1: XmlSchemaMaxExclusiveFacet
+.Read, name= is not a valid attribute for maxExclusiveShould not happen :2: XmlSchemaMaxExclusiveFacet
+.Read, name=maxInclusiveShould not happen :1: XmlSchemaMaxInclusiveFacet
+.Read, name= is not a valid attribute for maxInclusiveShould not happen :2: XmlSchemaMaxInclusiveFacet
+.Read, name=maxLengthShould not happen :1: XmlSchemaMaxLengthFacet
+.Read, name=Should not happen :2: XmlSchemaMaxLengthFacet
+.Read, name=minExclusiveShould not happen :1: XmlSchemaMinExclusiveFacet
+.Read, name= is not a valid attribute for minExclusiveShould not happen :2: XmlSchemaMinExclusiveFacet
+.Read, name=minInclusiveShould not happen :1: XmlSchemaMinInclusiveFacet
+.Read, name= is not a valid attribute for minInclusiveShould not happen :2: XmlSchemaMinInclusiveFacet
+.Read, name=minLengthShould not happen :1: XmlSchemaMinLengthFacet
+.Read, name= is not a valid attribute for minLengthShould not happen :2: XmlSchemaMinLengthFacet
+.Read, name=public must be presentpublic must be anyURIsystem must be present and of Type anyURIsystem is not a valid attribute for notationShould not happen :2: XmlSchemaNotation
+.Read, name=INTERNAL ERROR: Parent object is not set properly : {0} ({1},{2})minOccurs must be less than or equal to maxOccursMaxOccurs must be a non-negative integerMinOccursString must be a non-negative numberInvalid derivation occurence range was found
+.Should not happen :1: XmlSchemaPatternFacet
+.Read, name= is not a valid attribute for patternShould not happen :2: XmlSchemaPatternFacet
+.Read, name= is invalid in this context
+.
+.The error occured on (Should not happen :1: XmlSchemaRedefine
+.Read, name= is not a valid attribute for redefineShould not happen :2: XmlSchemaRedefine
+.Read, name=Invalid schema object was specified in the particles of the sequence model group
+.Should not happen :1: XmlSchemaSequence
+.Read, name= is not a valid attribute for sequenceShould not happen :2: XmlSchemaSequence
+.Read, name=Invalid sequence paricle derivation
+.Invalid sequence particle derivation by restriction from all
+.Base element particle is mapped to the derived element particle in a sequence two or more times
+.In base -all- particle, mapping-skipped base element which is not emptiable was found
+.Content must be present in a simpleContentsimpleContent can't have any value other than restriction or extention is not a valid attribute for simpleContentShould not happen :2: XmlSchemaSimpleContent
+.Read, name=BaseTypeName must be a QName is not valid in this place::SimpleConentExtension is not a valid attribute for extension in this contextShould not happen :2: XmlSchemaSimpleContentExtension
+.Read, name=Specified type is complex type which contains complex content
+.Invalid schema datatype name is specified
+. is not valid in this place::SimpleContentRestrictionShould not happen :2: XmlSchemaSimpleContentRestriction
+.Read, name=totalDigitswhiteSpaceName is prohibited in a local simpletypeFinal is prohibited in a local simpletypeThe value of final attribute is not valid for simpleTypeContent is required in a simpletypesome invalid values not a valid value for final is not a valid attribute for simpleTypeShould not happen :2: XmlSchemaSimpleType
+.Read, name=unionCircular type reference was found
+.Specified derivation is prohibited by the base simple type
+.List type must not be derived from another list type
+.Base schema type is not either atomic type or primitive type
+.Derivation by restriction is prohibited by the base simple type
+.Not allowed facet was found on this simple type which derives list type
+.Specified derivation is prohibited by the base type
+.Invalid simple type derivation was found
+.both itemType and simpletype can't be presentone of itemType or simpletype must be presentBaseTypeName must be a XmlQualifiedNameShould not happen :1: XmlSchemaSimpleTypeList
+.Read, name=itemType is not a valid value for itemType attribute is not a valid attribute for listShould not happen :2: XmlSchemaSimpleTypeList
+.Read, name=Invalid schema type name was specified: Referenced base list item schema type The value '{0}' is an invalid fractionDigits valueThe value '{0}' is not a valid restriction of the base fractionDigits facet '{1}'The value '{0}' is an invalid fractionDigits facet specificationIt is an error for both length and minLength or maxLength to be present
+.' is an invalid length' is an invalid length facet specificationThe value '{0}' is not the same as the fixed value '{1}' on the base typeThe value '{0}' is not a valid restriction of the value '{1}' on the base maxLength facet' is an invalid maxLengthminLength is greater than maxLength
+.' is an invalid maxLength facet specificationThe value '{0}' is not a valid restriction of the value '{1}' on the base minLength facet' is an invalid minLength' is an invalid minLength facet specification{0} is not the same as fixed parent {1} facet
+.The value '{0}' is not valid against the base type
+.The value '{0}' is an invalid totalDigits valueThe value '{0}' is not a valid restriction of the base totalDigits facet '{1}'The value '{0}' is an invalid totalDigits facet specificationboth base and simpletype can't be setone of basetype or simpletype must be presentOnly XmlSchemaFacet objects are allowed for Facets propertyShould not happen :1: XmlSchemaSimpleTypeRestriction
+.Read, name=Should not happen :2: XmlSchemaSimpleTypeRestriction
+.Read, name= is not a valid facet for this typeThis is a duplicate '' facet
+.[\p{L}_][^\p{L}_][\p{L}\p{N}_\
+.\-:][^\p{L}\p{N}_\
+.\-:]Invalid regular expression pattern was specified
+.baseTypes can't have objects other than a simpletypeInvalid membertypeAtleast one simpletype or membertype must be presentShould not happen :1: XmlSchemaSimpleTypeUnion
+.Read, name=memberTypes' is not a valid memberType is not a valid attribute for unionShould not happen :2: XmlSchemaSimpleTypeUnion
+.Read, name=Should not happen :1: XmlSchemaTotalDigitsFacet
+.Read, name= is not a valid attribute for totalDigitsShould not happen :2: XmlSchemaTotalDigitsFacet
+.Read, name=Should not happen :1: XmlSchemaUnique
+.Read, name= is not a valid attribute for uniqueShould not happen :2: XmlSchemaUnion
+.Read, name=anyuri:MONO_STRICT_MS_COMPLIANT is not allowed in this attribute
+. is already specified in this attribute
+.Named item {0} was already contained in the schema object table
+.Named item {0} was already contained in the schema object table
+. {1}Consider setting MONO_STRICT_MS_COMPLIANT to 'yes' to mimic MS implementation
+.## is not a valid id attributeDuplicate id attribute http://schemas
+.xmlsoap
+.org/wsdl/arrayType#all
+. #all if present must be the only valuesubstitutionis/are not valid values for qualifiedunqualifiedonly qualified or unqulified is a valid valuelaxstrictskiponly lax , strict or skip are valid values for processContentsoptionalprohibitedrequiredonly optional , prohibited or required are valid values for use is an invalid QName
+. Either name or namespace is not a NCNameNamespace Prefix 'could not be resolvedReferenced attribute group Attribute group recursion was found: Duplicate attributes was found for '{0}'Should not happen :1: XmlSchemaWhiteSpaceFacet
+.Read, name= is not a valid attribute for whiteSpaceShould not happen :2: XmlSchemaWhiteSpaceFacet
+.Read, name=mspropxsxpath
+.//appmstns
+.xsdMainDataTableATTENTION: This schema contains references to other imported schemasEmpty xpath expression is specifiedSelector cannot include attribute axes
+.Invalid path format for a field
+.Specified prefix '' is not declared
+.Unexpected xpath token after Attribute NameTest
+.Unexpected xpath token after NameTest
+. is not a valid attribute for Should not happen :2: XmlSchemaXPath
+.Read, name=invalid data
+.Referenced entity '{0}' does not exist
+.Reference to external entities is not allowed in the value of an attribute
+.Reference to external entities is not allowed in the internal subset
+.Attribute must not contain character '<' either directly or indirectly by way of entity references
+.EOF'{0}' is expectedExpected {0}, but found {1} [{2}]i is smaller than AttributeCountNodeType {0} is not allowed to create XmlTextReader
+.attribute index out of range
+.'=' is expected after {0}'"' or ''' is expected
+.Document element did not appear
+.Unexpected token
+. Name is required here
+.an attribute value was not quotedattribute values cannot contain '<'unexpected end of file in an attribute valueInvalid character was found
+.CDATA section cannot appear in this state
+.invalid hexadecimal digit: {0} (#x{1:X})invalid decimal digit: {0} (#x{1:X})Referenced character was not allowed in XML
+. Normalization is , checkCharacters = Offset must be non-negative integer
+.Length must be non-negative integer
+.buffer length is smaller than the sum of offset and length
+.Unexpected end of xml
+.unexpected end of file
+. Current depth is CDATA[Unexpected declaration markup was found
+.Document Type Declaration (DTD) is prohibited in this XML
+.Document type cannot appear in this state
+.End tag cannot appear in this state
+.closing element without matching opening elementunexpected end of file at DTD
+.unexpected token '<!E'
+.unexpected '<{0}'
+.unexpected token '>'Parameter Entity Reference cannot appear as a part of markupdecl (see XML spec 2
+.8)
+.Multiple document element was detected
+.document has terminated, cannot open new elementEmpty namespace URI cannot be mapped to non-empty prefix
+.Attribute name and qualified name must be identical
+.'{0}' is undeclared namespace
+.Invalid xml:space value: {0}Text node cannot appear in this state
+.Inside text content, character sequence ']]>' is not allowed
+.XmlTextReader cannot resolve external entities
+.Reference to undeclared entity '{0}'
+.General entity '{0}' has an invalid recursive reference to itself
+.Standalone document must not contain any references to an non-internally declared entity
+.Reference to any unparsed entities is not allowed here
+.xml Processing instruction name must not be character sequence 'X' 'M' 'L' with case insensitivity
+.XML declaration cannot appear in this state
+.'version' is expected
+.'encoding' must be a valid IANA encoding name
+.Only 'yes' or 'no' is allow for 'standalone'Unexpected token: '{0}''?' is expected
+. xmlns: xmlnsThe Namespace cannot be empty
+.d{0}p{1}This XmlWriter does not accept {0} at this state {1}
+.CData]]>CDATA section must not contain ']]>'
+.<![CDATA[Input contains invalid character at {0} : &#x{1:X};textAn input string to WriteComment method must not end with '-'
+. Escape it with '&#2D;'
+.An XML comment cannot end with "-"
+.Comment<!---->DocType<!DOCTYPE  PUBLIC  SYSTEM End of attributeNon-empty prefix must be mapped to non-empty namespace URI
+.Cannot redefine the namespace for prefix '{0}' used at current elementInvalid value for xml:space
+.EndElementThere is no more open element
+. />Argument name must be a valid XML name
+.Entity referenceamp;lt;gt;apos;quot;&#xD;&#xA;A processing instruction name must be a valid XML name
+.Processing instruction cannot contain "?>" as its value
+.ProcessingInstruction<?localNamePrefix 'xmlns' is reserved and cannot be overriden
+.localName must be a valid NCName
+.Namespace '{0}' is not declared
+.AttributeThe 'xmlns' attribute is bound to the reserved namespace '{0}'Namespace URI must not be null when prefix is not an empty string
+.XmlDeclarationWriteStartDocument cannot be called when ConformanceLevel is Fragment
+.<?xml version= encoding= standalone=StartTagNamespace is disabled in this XmlTextWriter
+.Namespace prefix is disabled in this XmlTextWriter
+.A prefix cannot be equivalent to "xml" in case-insensitive match
+.WriteWhitespace method accepts only whitespaces
+.WhitespaceThis object type is not supported
+.uri must be absolute
+.absoluteUriUnexpected node  of type feedback_added_xpInvalid entitiy name
+.--MM--' is an invalid NCName
+.Integer contains point number
+.' is an invalid name
+.' is an invalid NMTOKEN
+.Invalid name token
+.name tablenamespace managerHH:mm:ss
+.fHH:mm:ss
+.ffHH:mm:ss
+.fffHH:mm:ss
+.ffffHH:mm:ss
+.fffffHH:mm:ss
+.ffffffHH:mm:ss
+.fffffffHH:mm:ss
+.fzzzHH:mm:ss
+.ffzzzHH:mm:ss
+.fffzzzHH:mm:ss
+.ffffzzzHH:mm:ss
+.fffffzzzHH:mm:ss
+.ffffffzzzHH:mm:ss
+.fffffffzzzHH:mm:ss
+.fZHH:mm:ss
+.ffZHH:mm:ss
+.fffZHH:mm:ss
+.ffffZHH:mm:ss
+.fffffZHH:mm:ss
+.ffffffZHH:mm:ss
+.fffffffZ##other##targetNamespace##localMultiple specification of ##any was found
+.Multiple specification of ##other was found
+.Multiple specification of ##targetNamespace was found
+.Multiple specification of ##local was found
+.the namespace is not a valid anyURIMultiple specification of '' was found
+.##any if present must be the only namespace attribute##other if present must be the only namespace attributeThis wildcard does not allow the namespace: Invalid wildcard subset was found
+.accept
+.value discard
+.state 
+.token 
+.value error
+.lex
+.state 
+.reading pop
+.state 
+.on errorpush
+.state reduce
+.state 
+.uncover 
+.rule (rejectgoto
+.from state shift
+.from state  left to recover$accept : ExprExpr : BoolExprExpr : ArithExprBoolExpr : PAROPEN BoolExpr PARCLOSEBoolExpr : BoolExpr AND BoolExprBoolExpr : BoolExpr OR BoolExprBoolExpr : NOT BoolExprBoolExpr : PredicatePredicate : CompPredicatePredicate : IsPredicatePredicate : LikePredicatePredicate : InPredicateCompPredicate : ArithExpr CompOp ArithExprCompOp : EQCompOp : NECompOp : LTCompOp : GTCompOp : LECompOp : GELE : LT EQNE : LT GTGE : GT EQArithExpr : PAROPEN ArithExpr PARCLOSEArithExpr : ArithExpr MUL ArithExprArithExpr : ArithExpr DIV ArithExprArithExpr : ArithExpr MOD ArithExprArithExpr : ArithExpr PLUS ArithExprArithExpr : ArithExpr MINUS ArithExprArithExpr : MINUS ArithExprArithExpr : FunctionArithExpr : ValueValue : LiteralValueValue : SingleColumnValueLiteralValue : StringLiteralLiteralValue : NumberLiteralLiteralValue : DateLiteralLiteralValue : BoolLiteralBoolLiteral : TRUEBoolLiteral : FALSESingleColumnValue : LocalColumnValueSingleColumnValue : ParentColumnValueMultiColumnValue : LocalColumnValueMultiColumnValue : ChildColumnValueLocalColumnValue : ColumnNameParentColumnValue : PARENT DOT ColumnNameParentColumnValue : PARENT PAROPEN RelationName PARCLOSE DOT ColumnNameChildColumnValue : CHILD DOT ColumnNameChildColumnValue : CHILD PAROPEN RelationName PARCLOSE DOT ColumnNameColumnName : IdentifierColumnName : ColumnName DOT IdentifierRelationName : IdentifierFunction : CalcFunctionFunction : AggFunctionFunction : StringFunctionAggFunction : AggFunctionName PAROPEN MultiColumnValue PARCLOSEAggFunctionName : COUNTAggFunctionName : SUMAggFunctionName : AVGAggFunctionName : MAXAggFunctionName : MINAggFunctionName : STDEVAggFunctionName : VARStringExpr : PAROPEN StringExpr PARCLOSEStringExpr : SingleColumnValueStringExpr : StringLiteralStringExpr : StringFunctionStringFunction : TRIM PAROPEN StringExpr PARCLOSEStringFunction : SUBSTRING PAROPEN StringExpr COMMA ArithExpr COMMA ArithExpr PARCLOSEStringFunction : StringExpr PLUS StringExprCalcFunction : IIF PAROPEN Expr COMMA Expr COMMA Expr PARCLOSECalcFunction : ISNULL PAROPEN Expr COMMA Expr PARCLOSECalcFunction : LEN PAROPEN Expr PARCLOSECalcFunction : CONVERT PAROPEN Expr COMMA TypeSpecifier PARCLOSETypeSpecifier : StringLiteralTypeSpecifier : IdentifierIsPredicate : ArithExpr IS NULLIsPredicate : ArithExpr IS NOT NULLLikePredicate : StringExpr LIKE StringExprLikePredicate : StringExpr NOT_LIKE StringExprInPredicate : ArithExpr IN InPredicateValueInPredicate : ArithExpr NOT_IN InPredicateValueInPredicateValue : PAROPEN InValueList PARCLOSEInValueList : LiteralValueInValueList : InValueList COMMA LiteralValueUnable to load scene '{0}'Unity Child DomainAssets/Plugins/NianticLib/Zeppelin1
+.3
+.24-047b3e4System
+.Security
+.Policy
+.ZoneZoneSecurityZoneinvalid zoneNoZone isn't valid for membership conditionZone - 
+.
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .mscorlib
 .
 .NULL
@@ -10820,7 +11480,10 @@ java
 .m_useUserOverride
 .numInfo
 .dateTimeInfo
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .displayname
 .englishname
 .nativename
@@ -16884,8 +17547,11 @@ java
 .SpecifyKind
 .DaysInMonth
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .getDateTimeFormats
 .adjustutc
 .patterns
@@ -19098,6 +19764,7 @@ java
 .W32ErrorMessage
 .native_error_code
 .NativeErrorCode
+<<<<<<< HEAD
 
 
 
@@ -19141,6 +19808,8 @@ java
 
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .Stopwatch
 
 .getTimestamp
@@ -42237,14 +42906,20 @@ java
 .get_AssetType
 
 .get_ReferenceCount
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .Request
 .RequestAsync
 .AssetPath
 .AssetType
 .ReferenceCount
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .IResourceLoader
 .toUnload
 
@@ -44036,8 +44711,11 @@ java
 .<recipTime>__0
 .<CoroutineRunEvery>c__Iterator1
 .MockScheduler
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .AddCoroutine
 .TickQueue
 .coroutines
@@ -46082,10 +46760,15 @@ java
 .$field-C0935C173C7A144FE24DA09584F4892153D01F3C
 .$field-11D4D9FC526D047E01891BEE9949EA42408A800E
 .$field-40B82CCF037B966E2A6B5F4BAC86904796965A1C
+<<<<<<< HEAD
 
 .$ArrayType=20
 .$ArrayType=40
 
+=======
+.$ArrayType=20
+.$ArrayType=40
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .$ArrayType=80
 .$ArrayType=56
 .$ArrayType=64
@@ -46237,7 +46920,10 @@ java
 .get_HeadPose
 .EyePose
 .distortion
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .Viewport
 
 .get_ComfortableViewingRange
@@ -46415,9 +47101,12 @@ java
 .DeviceTypes
 .Pose3D
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .set_Orientation
 
 .set_Matrix
@@ -46427,7 +47116,10 @@ java
 .<Position>k__BackingField
 .<Orientation>k__BackingField
 .<Matrix>k__BackingField
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .RightHandedMatrix
 .MutablePose3D
 
@@ -46810,7 +47502,10 @@ java
 .alphaEnabled
 .labelStr
 .useColor
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .colorTouched
 .hasInitiliazed
 .LTBezier
@@ -47355,7 +48050,10 @@ java
 .getCenterPosition
 
 .getPreviousCenterPosition
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .AddPoints
 .RemovePoint
 .RemovePoints
@@ -47892,8 +48590,11 @@ java
 
 .get_RaycastResult
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .get_Normal
 .raycastHit2D
 .raycastResult
@@ -49189,7 +49890,10 @@ java
 .Niantic
 .Holoholo
 .AssetBundles
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .AssetBundleStatus
 .UNLOADED
 .LOADING
@@ -49309,7 +50013,10 @@ java
 .Entries
 .DigestState
 .UNINITIALIZED
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .READY
 .CloudUrlEntry
 .retrieved
@@ -49327,7 +50034,10 @@ java
 .CloudStoreBundleLoader
 .RequestBundleRoutine
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .getCacheFilePath
 .LoadStreamFromPath
 .DownloadAndCacheAsset
@@ -49360,13 +50070,17 @@ java
 .$locvar6
 .<RequestBundleRoutine>c__AnonStorey9
 .<RequestBundleRoutine>c__AnonStorey5
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .bundleStream
 .fileCorrupted
 .<>f__ref$9
 .<RequestBundleRoutine>c__AnonStorey6
 .downloadPromise
 .<RequestBundleRoutine>c__AnonStorey7
+<<<<<<< HEAD
 
 .decryptedBytes
 .<RequestBundleRoutine>c__AnonStorey8
@@ -49375,6 +50089,13 @@ java
 .<>f__ref$7
 .<RequestBundleRoutine>c__AnonStoreyA
 
+=======
+.decryptedBytes
+.<RequestBundleRoutine>c__AnonStorey8
+.decryptPromise
+.<>f__ref$7
+.<RequestBundleRoutine>c__AnonStoreyA
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .<RunDownloadAndCacheAsset>c__Iterator1
 .<RunDownloadAndCacheAsset>c__AnonStoreyB
 .<DownloadAsset>c__Iterator2
@@ -49772,7 +50493,10 @@ java
 .<GetTokenInner>c__AnonStorey7
 .OnCompletion
 .<GetTokenInner>c__AnonStorey8
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .<UnityLogin1>c__Iterator0
 .<uRequest>__0
 .<responseHeaders>__0
@@ -49834,7 +50558,10 @@ java
 .AvatarPart
 .Arms
 .Chest
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .Feet
 .Hands
 .Legs
@@ -50007,7 +50734,10 @@ java
 .remove_OnRenderTextureRefCountZero
 .CleanupRenderTexture
 .playerAvatarProto
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .OnRenderTextureRefCountZero
 .AvatarService
 .maleAvatar
@@ -50197,9 +50927,12 @@ java
 .IFemaleAvatar
 .PlayerAvatar
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .setupRenderTexture
 .RebuildAvatar
 
@@ -50210,8 +50943,11 @@ java
 .PlaceAvatarPartMesh
 .colorOption
 .AttachDoodad
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .GatherParts
 .gatherAssets
 .BuildParts
@@ -50220,7 +50956,10 @@ java
 .DrawAsset
 .BuildPart
 .backupId
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .GatherAsset
 .<RebuildAvatar>m__0
 .<BakeSkinnedMeshes>m__1
@@ -50261,7 +51000,10 @@ java
 .MAX_BONE_COUNT
 .LOCAL_BONE_ARRAY
 .LOCAL_BONE_ARRAY_DEFAULT
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .OutlineShowing
 .AvatarPartAsset
 ._customizationOption
@@ -50286,6 +51028,7 @@ java
 .CanBake
 .<BuildAvatar>c__AnonStorey2
 .gatheredAssets
+<<<<<<< HEAD
 
 
 
@@ -50293,6 +51036,10 @@ java
 .<PlaceAvatarPartMesh>c__AnonStorey4
 
 
+=======
+.<BakeSkinnedMeshes>c__AnonStorey3
+.<PlaceAvatarPartMesh>c__AnonStorey4
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .<DrawParts>c__Iterator0
 .<avatarRenderTexture>__0
 .<avatarPart>__1
@@ -51528,7 +52275,10 @@ java
 .setRaid
 .ObserveFrame
 .<TrySurrender>m__0
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .isRaid
 .OnSurrender
 .SwapButton
@@ -51591,7 +52341,10 @@ java
 .messageText
 .errorSound
 .dismissSound
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .BootInstaller
 .LogStartupInfo
 .<LogStartupInfo>m__0
@@ -51611,14 +52364,18 @@ java
 .BootSceneContext
 .BootSequence
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .setAssetDigest
 .ClearProgressIndicator
 .UpdateProgressIndicator
 .LoadMainScene
 .ShowSignoutButton
+<<<<<<< HEAD
 
 
 
@@ -51651,6 +52408,10 @@ java
 
 .RunBootSequence
 
+=======
+.bootSequence
+.RunBootSequence
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .WaitForAuth
 .RegisterRpcSideChannels
 .InitializeRemoteConfigVersions
@@ -51666,7 +52427,10 @@ java
 .DOWNLOAD_REMOTE_CONFIG_TIMEOUT_MS
 .guiControllerPrefab
 .pushNotificationSettingsServicePrefab
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .guiControllerFactory
 .cloudStoreBundleLoader
 .pushNotificationSettingsService
@@ -51699,7 +52463,10 @@ java
 .stepResult
 .<RunBootSequence>c__AnonStoreyC
 .readyForRetry
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .<WaitForAuth>c__Iterator2
 .<InitializeRemoteConfigVersions>c__Iterator3
 .<tryCount>__0
@@ -51899,7 +52666,10 @@ java
 .firstTimeUserState
 .avatarRoot
 .customizationSkybox
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .guiFactory
 .currentController
 .cameraPositions
@@ -51908,8 +52678,11 @@ java
 .zoomOutTransform
 .GroupToCameraSlotMap
 .previousLayers
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .previousClearFlags
 .previousFog
 .previousSkybox
@@ -51941,7 +52714,10 @@ java
 .get_IconColor
 
 .set_IconColor
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .<IconColor>k__BackingField
 .IconColor
 .IAvatarItemGuiController
@@ -52429,11 +53205,17 @@ java
 .age
 .AgeGateSubmitted
 .ProviderTokenReceived
+<<<<<<< HEAD
 
 .banned
 .WaitAndShowInitialState
 .ShowInitialState
 
+=======
+.banned
+.WaitAndShowInitialState
+.ShowInitialState
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .SCENE_NAME
 .loginAgeGateStatePrefab
 .loginChoiceStatePrefab
@@ -52653,6 +53435,7 @@ java
 
 .get_TutorialIsComplete
 
+<<<<<<< HEAD
 
 
 
@@ -52708,6 +53491,13 @@ java
 
 
 
+=======
+.setupStatusAndNavBars
+.<EnterState>m__0
+.bootStatePrefab
+.rpcSpinnerGuiController
+.TutorialIsComplete
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .DebugMapGestureHandler
 .Niantic
 .Holoholo
@@ -52725,7 +53515,10 @@ java
 .Holoholo
 .Encounter
 .TurnAnimation
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .swoopDown
 .anglesPerSecond
 .encounterState
@@ -52939,7 +53732,10 @@ java
 .userFledSound
 .parkCameraController
 .arCameraController
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .runAwayTransitionDuration
 .postFleeWait
 .fadeInTime
@@ -52961,7 +53757,10 @@ java
 .<CaptureProbability>k__BackingField
 .activeBerry
 .gestureHandlerReceipt
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .previousVisibleLayers
 .itemUseGui
 .currItem
@@ -53749,7 +54548,10 @@ java
 .healthyGyroClassifierPrefab
 .mapAvatar
 .worldMapState
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .metricsService
 .pgpService
 .PokeballThrown
@@ -53764,17 +54566,25 @@ java
 .OnlyShowFirstTimeUserGui
 .EncounterResponse
 .GlobalGuiInstaller
+<<<<<<< HEAD
 
 .conversationServicePrefab
 .userTaskServicePrefab
 
+=======
+.conversationServicePrefab
+.userTaskServicePrefab
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .toastServicePrefab
 .xpAwardServicePrefab
 .pokemonBagObserver
 .guiTransitionInstaller
 .sponsorDataServicePrefab
 .pgpGuiService
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .pokemonInventoryGuiServicePrefab
 .pokemonInfoGuiService
 .pokemonCandySpritesServicePrefab
@@ -53796,9 +54606,13 @@ java
 .pgpSettingsGuiPrefab
 .pgpGuiPrefab
 .resetCodenameGuiPrefab
+<<<<<<< HEAD
 
 .cheatingWarningGuiPrefab
 
+=======
+.cheatingWarningGuiPrefab
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .loadingBlockerGuiPrefab
 .avatarDetailRendererPrefab
 .avatarDetailGuiPrefab
@@ -54126,8 +54940,11 @@ java
 .friendlyPokemonAngularOffsets
 .timerColor1
 .timerColor2
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .inputReceipt
 .tapHighlight
 .<playerBattlePokemon>k__BackingField
@@ -56162,7 +56979,10 @@ java
 .LevelProgressForGymPoints
 .TotalSlotsForLevel
 .GymPointsForLevel
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .IGymState
 .GymState
 
@@ -56535,7 +57355,10 @@ java
 .RaidLobbyState
 .KillAllPromises
 .ReadyPlatform
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .NotReadyToRaid
 .<ShowRaidApproachGui>m__1
 .<ReadyPlatform>m__2
@@ -56713,7 +57536,10 @@ java
 .MakeLobbyPublic
 .<Init>m__2
 .<OnLobbyIntroComplete>m__3
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .<ShowBattlePrepGui>m__4
 .<RunUpdate>m__5
 .<RunUpdate>m__6
@@ -57041,7 +57867,10 @@ java
 .getCell
 .ClientRemoveWildPokemon
 .RunCellUpdates
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .AddToScene
 .newCell
 .oldCell
@@ -57086,7 +57915,10 @@ java
 .RunningCellUpdates
 .ForceImmediateGetObjects
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .get_FortList
 
 .get_SpawnPointList
@@ -57175,7 +58007,10 @@ java
 .blacklistedEncounters
 .playerProximityObservationReceipt
 .CameraFollowingGround
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .groundZOffset
 .IInputManager
 
@@ -57312,10 +58147,15 @@ java
 .nearbyPokemonPreviewGui
 .cheatingWarningGuiFactory
 .gymRootControllerFactory
+<<<<<<< HEAD
 
 .speedService
 .notificationService
 
+=======
+.speedService
+.notificationService
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .clientInbox
 .mapMusicDay
 .mapMusicNight
@@ -57896,7 +58736,10 @@ java
 .IPoiSpinner
 
 .setImage
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .ResetRotation
 .Restart
 .BasePoiSpinner
@@ -58563,7 +59406,10 @@ java
 .PokemonEncounterComplete
 .ActivateAssetBrowser
 .DeactivateAssetBrowser
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .mapContentHandlerPrefab
 .mapEntityServicePrefab
 .gyroPrefab
@@ -58964,7 +59810,10 @@ java
 .<EmailsOptedIn>k__BackingField
 .DeclinePressed
 .AcceptPressed
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .EmailsOptedIn
 .EulaState
 
@@ -59010,7 +59859,10 @@ java
 .BackFromCustomization
 .<AvatarSelectionComplete>m__0
 .<AvatarSelectionComplete>m__1
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .welcomeState
 .enterNameState
 .eulaStatePrefab
@@ -59020,7 +59872,10 @@ java
 .inputLayerPrefab
 .<InputLayer>k__BackingField
 .inputStack
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .orientationMusic
 .taskService
 .mapRootState
@@ -59103,9 +59958,12 @@ java
 .<MonitorPlayerDistance>c__Iterator2
 .<distToRespawnPokemonSqr>__0
 .HintUI
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .totalTime
 .FadeInCanvasGroup
 .arrowIconGroup
@@ -59922,8 +60780,11 @@ java
 
 .set_DriverTransform
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .set_Axis
 
 .get_TransformType
@@ -60487,7 +61348,10 @@ java
 .DEFAULT_CAPACITY
 .pooledObjects
 .prefabMap
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .HeapifyUp
 .HeapifyDown
 .heap
@@ -60531,9 +61395,12 @@ java
 .set_ElementCount
 
 .set_Bounds
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .InsertAsLeaf
 .candidateChildren
 
@@ -60542,7 +61409,10 @@ java
 .<ElementCount>k__BackingField
 .<Bounds>k__BackingField
 .ElementCount
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .System
 .Collections
 .Generic
@@ -60729,7 +61599,10 @@ java
 .newSpeciesWipeDuration
 .guiWindowService
 .wipeFactory
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .showNewSpeciesAnim
 .pokemonToEvolveTo
 .currentCharacter
@@ -60771,6 +61644,7 @@ java
 .silhouetteColor
 .pokedexNumberLabel
 .intendedSpriteColor
+<<<<<<< HEAD
 
 
 
@@ -60806,6 +61680,8 @@ java
 
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .BlacklistedGameObject
 .removeForDevices
 .removeForPlatforms
@@ -61004,7 +61880,10 @@ java
 .floatProperties
 .useRendererValuesAsStartValues
 .ContinuousUpdate
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .ColorProperty
 
 .setInitialValue
@@ -61134,8 +62013,11 @@ java
 .VERSION_KITKAT
 .VERSION_LOLLIPOP
 .VERSION_MARSHMALLOW
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .CameraRaycast
 .inPos
 .CurrentBundleVersion
@@ -61254,8 +62136,11 @@ java
 .getQuestSettings
 .AddQuestSettings
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .getAvatarCustomizationGroup
 .AddAvatarCustomization
 .StrippedSku
@@ -61330,8 +62215,11 @@ java
 .settingsSideChannelReceipt
 .cachedSha1
 .HoloLang
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .HasString
 .Localized_PokemonName
 .Localized_PokemonCategory
@@ -61342,7 +62230,10 @@ java
 .Localized_PokemonMoveDesc
 .Localized_ItemName
 .Localized_ItemDesc
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .ITicker
 .MathUtil
 
@@ -61490,8 +62381,11 @@ java
 .get_Incubators
 .RequestLevelUpRewards
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .getNextDailyBonusMs
 
 .getContactSettings
@@ -62047,7 +62941,10 @@ java
 .AngleFilter
 .wrap
 .dT
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .TIME_NORMALIZATION_MS
 .STEP_SIZE
 .MAX_DT
@@ -62107,7 +63004,10 @@ java
 .reading
 .calcMatrixFromRotationVector
 .updateOrientation
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .wrapAngle
 
 .getDeclination
@@ -62132,7 +63032,10 @@ java
 .lastUpdateTimeMs
 .DefaultingCameraLayer
 .EventThrottle
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .EventHappened
 .lastEventTime
 .IMapsApi
@@ -63333,12 +64236,17 @@ java
 
 .set_PokemonTypeId
 
+<<<<<<< HEAD
 
 
 .set_Lat
 
 
 
+=======
+.set_Lat
+
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .set_Lng
 
 .get_EncounterLocation
@@ -63361,7 +64269,10 @@ java
 .PokemonDisplayFieldNumber
 .pokemonDisplay_
 .PokemonTypeId
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .EncounterLocation
 .DisappearTimeMs
 .INCENSE_ENCOUNTER_UNKNOWN
@@ -65384,7 +66295,10 @@ java
 .NearbyPokemonFieldNumber
 ._repeated_nearbyPokemon_codec
 .nearbyPokemon_
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .AsOfTimeMs
 .Fort
 .SpawnPoint
@@ -65418,7 +66332,10 @@ java
 .playerLat_
 .PlayerLngFieldNumber
 .playerLng_
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .SinceTimeMs
 .PlayerLat
 .PlayerLng
@@ -70485,7 +71402,10 @@ java
 .IStateToken
 .add_Completed
 .remove_Completed
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .CoroutineStateMachine
 .printLogs
 
@@ -70655,7 +71575,10 @@ java
 .yTileCount
 .toDownload
 .<RequestTiles>c__AnonStoreyA
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .<GetImageFromUrl>c__AnonStoreyB
 .<CoPostJsonRequest>c__Iterator3`2
 .<body>__0
@@ -71084,7 +72007,10 @@ java
 .CheckWebcamPermission
 .<FrontCamera>k__BackingField
 .<BackCamera>k__BackingField
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .<InitializeCamera>c__Iterator0
 .<transitionPromise>__1
 .<promise>__1
@@ -71783,11 +72709,16 @@ java
 .get_DisplayProto
 .RefreshPokemonUI
 .RefreshPokeballUI
+<<<<<<< HEAD
 
 .HandleThrowGraded
 .RunDisplayThrowGrade
 
 
+=======
+.HandleThrowGraded
+.RunDisplayThrowGrade
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .dropdownSelection
 .ChangePokemonViaDropdown
 .ShowPokemonLayout
@@ -71836,7 +72767,10 @@ java
 .mockMapPokemonPrefab
 .mockEncounterStatePrefab
 .mockEncounterInteractionStatePrefab
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .userPromptGuis
 .pokemonLayoutRoot
 .pokemonIdDropdown
@@ -73143,7 +74077,10 @@ java
 .badgeListAdapter
 .elementalBadgeListView
 .elementalBadgeListAdapter
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .teamSprite
 .teamLogoBG
 .backgroundSprites
@@ -73152,7 +74089,10 @@ java
 .activityLogService
 .buddyDetailGuiFactory
 .gymBadgeTutorialFactory
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .AvatarStage
 .<ClickSetBuddy>c__AnonStorey0
 .IPlayerProfileGuiService
@@ -73497,8 +74437,11 @@ java
 .staminaFill
 .maleIcon
 .femaleIcon
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .type1Text
 .typeSpacer
 .type2Text
@@ -73921,7 +74864,10 @@ java
 .ShowPokemonInventory
 .ShowPokemonInventoryToApplyItem
 .DismissPokemonInventory
+<<<<<<< HEAD
 
+=======
+>>>>>>> 21f3b588ea84646a360b52786b850e48502d31ab
 .pokemonPagePrefab
 .eggPagePrefab
 .pokemonInventoryGuiPrefab
